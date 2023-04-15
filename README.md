@@ -5,7 +5,7 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 
 有两个文件夹。第一个是learning，目的是存放学习路径中练习过的leetcode题目的代码实现。
 
-第二个是algo and ds，存放我们对一些基础算法和数据结构的实现代码。
+第二个是algorithms and ds，存放我们对一些基础算法和数据结构的实现代码。
 
 学习路径：
 首先是打好基础，按照Ref 2的学习路径就足够了。大概用一年的时间能够对算法和数据结构有比较基础的认识。
@@ -14,7 +14,9 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 
 # 学习记录
 当前的学习科目：数组。
+
 已经完成的科目：
+
 完成的leetcode题目数：0.
 
 # References 1
