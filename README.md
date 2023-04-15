@@ -28,6 +28,8 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 
 低频：Dijkstra, 树状数组，线段树，最小生成树。
 
+关于各种数据结构对应的leetcode题目，可参考（https://zhuanlan.zhihu.com/p/349940945）
+
 # References 2
 代码随想录在力扣官方网站上的刷题指南。（持续更新中）（https://leetcode.cn/circle/article/wGp7Y9/）
 
