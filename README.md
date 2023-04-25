@@ -17,9 +17,9 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 
 已经完成的科目：
 
-完成的leetcode题目：
+完成的leetcode题目：E - Easy, M - Medium, H - Hard.
 
-Bill: 704,367(Easy)
+Bill: 704(E),367(E)
 
 Ryan:
 
