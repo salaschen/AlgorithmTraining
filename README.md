@@ -19,7 +19,7 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 
 完成的leetcode题目：
 
-Bill: 704
+Bill: 704,367(Easy)
 
 Ryan:
 
