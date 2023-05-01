@@ -27,7 +27,7 @@ Ryan:
 
 **完成的leetcode题目：** *E - Easy, M - Medium, H - Hard.*
 
-Bill: 704(E), 367(E), 844(E), 977(E), 209(M), 904(M), 76(H)
+Bill: 704(E), 367(E), 844(E), 977(E), 209(M), 904(M), 76(H), 707(M)
 
 Ryan:
 
