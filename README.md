@@ -16,11 +16,13 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 **当前的学习科目:**
 
 Bill: 链表
+
 Ryan: 
 
 **已经完成的科目：**
 
 Bill: 数组
+
 Ryan: 
 
 **完成的leetcode题目：** *E - Easy, M - Medium, H - Hard.*
