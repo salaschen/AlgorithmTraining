@@ -13,15 +13,17 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 接下来就是有目的性的刷题，这时候可以根据Ref 1的建议，用60%的时间刷面试高频题，30%刷中频，然后10%刷低频。目标是刷够500个题目左右，这样应付主流IT公司的算法面试应该是绰绰有余了。
 
 # 学习记录
-当前的学习科目:
+**当前的学习科目:**
 
 Bill: 链表
+Ryan: 
 
-已经完成的科目：
+**已经完成的科目：**
 
 Bill: 数组
+Ryan: 
 
-完成的leetcode题目：E - Easy, M - Medium, H - Hard.
+**完成的leetcode题目：** *E - Easy, M - Medium, H - Hard.*
 
 Bill: 704(E), 367(E), 844(E), 977(E), 209(M), 904(M), 76(H)
 
