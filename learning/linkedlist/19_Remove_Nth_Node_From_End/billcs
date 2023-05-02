@@ -1,0 +1,72 @@
+using leetcode.Datastructure;
+
+public class q19 {
+
+    public static void Run() {
+        var sol = new q19();
+
+        var data = new List<Tuple<List<int>, int>>() {
+            Tuple.Create(new List<int>() {1,2,3 }, 1),
+            Tuple.Create(new List<int>() {1,2,3,4,5 }, 2),
+            Tuple.Create(new List<int>() {1,2 }, 1),
+            Tuple.Create(new List<int>() {1 }, 1),
+            Tuple.Create(new List<int>() {1,2,3,4 }, 3),
+        };
+
+        foreach (var d in data) {
+            var node = ListNode.ReadListToNode(d.Item1);
+            ListNode.PrintListNode(node);
+            var newHead = sol.RemoveNthFromEnd(node, d.Item2);
+            ListNode.PrintListNode(newHead);
+        }
+    }
+
+    // use array
+    // time: 34%
+    // mem: 20%
+    // note: a bit faster than 2 ptr
+    public ListNode RemoveNthFromEnd(ListNode head, int n) {
+        ListNode[] nodes = new ListNode[31];
+        int size = 0;
+        ListNode dummy = new ListNode();
+        dummy.next = head;
+        ListNode cur = head;
+        nodes[0] = dummy;
+        while (cur != null) {
+            nodes[size + 1] = cur;
+            size++;
+            cur = cur.next;
+        }
+
+        int index = size - n + 1;
+        nodes[index - 1].next = nodes[index].next;
+        return nodes[0].next;
+    }
+
+    // use fast and slow pointer
+    // time: 5%
+    // mem: 53%
+    public ListNode RemoveNthFromEnd_2ptr(ListNode head, int n) {
+        ListNode fast = head;
+        ListNode slow = head;
+        ListNode dummy = new ListNode();
+        ListNode prev = dummy;
+        prev.next = head;
+
+        // move the fast pointer by n steps first
+        for (int i = 1; i < n; i++) {
+            fast = fast.next;
+        }
+
+        // now move the fast and slow pointer together, until fast reaches the end.
+        while (fast != null && fast.next != null) {
+            fast = fast.next;
+            prev = slow;
+            slow = slow.next;
+        }
+
+        // now slow points to the node that needs to be removed
+        prev.next = slow.next;
+        return dummy.next;
+    }
+}
