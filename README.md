@@ -15,13 +15,13 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 # 学习记录
 **当前的学习科目:**
 
-Bill: 链表
+Bill: 哈希表
 
 Ryan: 
 
 **已经完成的科目：**
 
-Bill: 数组
+Bill: 数组,链表
 
 Ryan: 
 
