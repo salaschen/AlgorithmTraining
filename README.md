@@ -15,7 +15,7 @@ Algorithm and Data structure training for Ryan Feng and Bill Chen.
 # 学习记录
 **当前的学习科目:**
 
-Bill: 双队列法
+Bill: Stack & Queue
 
 Ryan: 
 
