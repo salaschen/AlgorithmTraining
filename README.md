@@ -60,3 +60,7 @@ Ryan:
 代码随想录在力扣官方网站上的刷题指南。（持续更新中）（https://leetcode.cn/circle/article/wGp7Y9/）
 
 学习路径为数组 -》 链表 -》 哈希表 -》 字符串 -》 栈与队列 -》 树 -》 回溯 -》 贪心 -》 动态规划 -》 图论 -》 高级数据结构。
+
+# Reference 3
+Dictionary of Algorithms and Data Structures - By NIST (National Institute of Science and Technology)
+https://xlinux.nist.gov/dads/
