@@ -1,4 +1,4 @@
-# AlgorithmTraining
+# Algorithm Training
 Algorithm and Data structure training for Ryan Feng and Bill Chen. 
 
 本repo主要是为了记录Ryan和Bill的学习算法和数据结构的过程，和一些leetcode题目的解法而创建。
@@ -36,6 +36,8 @@ Bill:
 150(M), 239(H), 347(M),  94(E),  144(E), 145(E),  100(E),  572(E), 222(E), 110(E)
 
 257(E), 112(E), 113(M), 106(M),  654(M), 617(E),  700(E),  530(E), 501(E), 235(M)
+
+701(M)
 
 # References 1
 根据TimothyL在知乎上的建议。（https://www.zhihu.com/question/32019460/answer/1726456200）
