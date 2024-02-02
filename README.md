@@ -51,7 +51,7 @@ Bill:
 关于各种数据结构对应的leetcode题目，可参考（https://zhuanlan.zhihu.com/p/349940945）
 
 # References 2
-代码随想录在力扣官方网站上的刷题指南。（持续更新中）（https://leetcode.cn/circle/article/wGp7Y9/）
+代码随想录在力扣官方网站上的刷题指南。（持续更新中）（[Github网站](https://github.com/youngyangyang04/leetcode-master)）
 
 学习路径为数组 -》 链表 -》 哈希表 -》 字符串 -》 栈与队列 -》 树 -》 回溯 -》 贪心 -》 动态规划 -》 图论 -》 高级数据结构。
 
