@@ -1,5 +1,5 @@
 # Algorithm Training
-Algorithm and Data structure training for Ryan Feng and Bill Chen. 
+Algorithm and Data structure training for Bill Chen. 
 
 本repo主要是为了记录Ryan和Bill的学习算法和数据结构的过程，和一些leetcode题目的解法而创建。
 
