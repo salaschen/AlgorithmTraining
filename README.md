@@ -15,11 +15,11 @@ Algorithm and Data structure training for Bill Chen.
 # 学习记录
 **当前的学习科目:**
 
-Bill: Back Tracking
+Bill: 动态规划
 
 **已经完成的科目：**
 
-Bill: 数组,链表,哈希表,字符串,双指针法,Stack & Queue, Binary Tree
+Bill: 数组,链表,哈希表,字符串,双指针法,Stack & Queue, Binary Tree, Back Tracking
 
 **完成的leetcode题目：** *E - Easy, M - Medium, H - Hard.*
 
