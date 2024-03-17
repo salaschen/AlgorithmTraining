@@ -1,7 +1,7 @@
 # Algorithm Training
 Algorithm and Data structure training for Bill Chen. 
 
-本repo主要是为了记录Ryan和Bill的学习算法和数据结构的过程，和一些leetcode题目的解法而创建。
+本repo主要是为了记录Bill的学习算法和数据结构的过程，和一些leetcode题目的解法而创建。
 
 有两个文件夹。第一个是learning，目的是存放学习路径中练习过的leetcode题目的代码实现。
 
